@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PalettePresenter/static/css/main.34f047d7.css",
+    "main.js": "/PalettePresenter/static/js/main.aca85b33.js",
+    "index.html": "/PalettePresenter/index.html",
+    "main.34f047d7.css.map": "/PalettePresenter/static/css/main.34f047d7.css.map",
+    "main.aca85b33.js.map": "/PalettePresenter/static/js/main.aca85b33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34f047d7.css",
+    "static/js/main.aca85b33.js"
+  ]
+}
