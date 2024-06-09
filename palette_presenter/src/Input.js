@@ -13,7 +13,7 @@ const Input = ({ colorValue, setColorValue }) => {
             value={colorValue}
             onChange={(e) => setColorValue(e.target.value)}
         />
-        <button></button>
+        
     </form>
   )
 }
