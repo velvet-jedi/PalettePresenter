@@ -1,7 +1,12 @@
+import Square from './Square';
+import Input from './Input';
+
 function App() {
   return (
-    <div>
-      <p>hello</p>
+    <div className='App'>
+      <Square></Square>
+      <Input></Input>
+      
     </div>
   );
 }
